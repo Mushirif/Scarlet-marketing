@@ -35,8 +35,8 @@ export function Navbar() {
       <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
-          <Link href="/" className="flex items-center gap-2 group">
-              <div className="relative w-8 h-8 md:w-20 md:h-20">
+          <Link href="/" className="flex items-center group">
+              <div className="relative w-6 h-6 md:w-20 md:h-20">
                   <Image 
                     src="/scarlet-logo.png" 
                     alt="Scarlet Logo" 

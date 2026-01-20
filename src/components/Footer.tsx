@@ -9,7 +9,7 @@ export function Footer() {
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
             <div className="grid grid-cols-1 md:grid-cols-4 gap-12 mb-12 border-b border-background/20 pb-12">
                 <div className="col-span-1 md:col-span-2">
-                    <div className="flex items-center"><div className="relative w-10 h-10 mb-6">
+                    <div className="flex items-center"><div className="relative w-20 h-20 mb-6">
                          <Image 
                             src="/scarlet-logo.png" 
                             alt="Scarlet Logo" 
