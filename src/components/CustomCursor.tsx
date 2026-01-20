@@ -10,7 +10,7 @@ export function CustomCursor() {
     const rafId = useRef<number | null>(null);
 
     // Config
-    const TRAIL_LENGTH = 20;
+    const TRAIL_LENGTH = 3;
 
     useEffect(() => {
         // Init points
