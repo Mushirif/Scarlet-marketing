@@ -17,7 +17,7 @@ export function Footer() {
                             className="object-contain object-left" 
                           />
                     </div>
-                    <h2 className="text-3xl font-black mb-6 tracking-tighter">SCARLET</h2>
+                    <h2 className="text-2xl font-black mb-6 tracking-tighter">SCARLET</h2>
                     </div>
                     <p className="max-w-sm text-background/60 text-lg">
                         Redefining digital landscapes with bold creativity and strategic precision.
