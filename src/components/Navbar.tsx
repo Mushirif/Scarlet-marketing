@@ -36,7 +36,7 @@ export function Navbar() {
         <div className="flex justify-between items-center h-16">
           {/* Logo */}
           <Link href="/" className="flex items-center group">
-              <div className="relative w-6 h-6 md:w-20 md:h-20">
+              <div className="relative w-6 h-6 md:w-15 md:h-15">
                   <Image 
                     src="/scarlet-logo.png" 
                     alt="Scarlet Logo" 
